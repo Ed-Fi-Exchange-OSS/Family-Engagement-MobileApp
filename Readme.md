@@ -1,10 +1,17 @@
-﻿# Insert Repository Name Here
+# Family-Engagement-MobileApp
 
-Insert project information here
+Family Engagement Mobile App provided by MSDF, YesPrep and Student1
+
+The Family Engagement Mobile App provides an easy-to-use view of student information,
+attendance, discipline, grades, and assessment scores with links to parent views
+in other applications. The Portal enables communication between members of the
+student’s "success team" by supporting text communications with automatic language
+translation. This mobile app enables Parents and Family members to be engaged with
+their students at their fingertips.
 
 ## Legal Information
 
-Copyright (c) 2020 Ed-Fi Alliance, LLC and contributors.
+Copyright (c) 2021 Ed-Fi Alliance, LLC and contributors.
 
 Licensed under the [Apache License, Version 2.0](LICENSE) (the "License").
 
